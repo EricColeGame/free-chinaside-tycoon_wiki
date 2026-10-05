@@ -237,39 +237,62 @@ export interface NavGroup {
 
 // 分组标题映射：slug → 人类可读标题（默认英文）
 const GROUP_TITLES: Record<string, string> = {
-  bosses: "Bosses",
-  races: "Races",
-  maps: "Maps & Areas",
-  skills: "Skills",
-  codes: "Codes",
-  guide: "Getting Started",
-  "tier-list": "Tier Lists",
+  guide: "Guides & Tutorials",
+  codes: "Codes & Rewards",
+  progression: "Progression & Money",
+  mechanics: "Core Mechanics",
+  controls: "Controls & Settings",
+  community: "Community & Updates",
 };
 
-// 日文分组标题映射
-const GROUP_TITLES_JA: Record<string, string> = {
-  bosses: "ボス",
-  races: "種族",
-  maps: "マップ & エリア",
-  skills: "スキル",
-  codes: "コード",
-  guide: "初心者ガイド",
-  "tier-list": "Tier List",
+// 西班牙语分组标题映射
+const GROUP_TITLES_ES: Record<string, string> = {
+  guide: "Guías y tutoriales",
+  codes: "Códigos y recompensas",
+  progression: "Progreso y dinero",
+  mechanics: "Mecánicas principales",
+  controls: "Controles y ajustes",
+  community: "Comunidad y novedades",
+};
+
+// 葡萄牙语分组标题映射
+const GROUP_TITLES_PT: Record<string, string> = {
+  guide: "Guias e tutoriais",
+  codes: "Códigos e recompensas",
+  progression: "Progressão e dinheiro",
+  mechanics: "Mecânicas principais",
+  controls: "Controles e ajustes",
+  community: "Comunidade e novidades",
+};
+
+// 德语分组标题映射
+const GROUP_TITLES_DE: Record<string, string> = {
+  guide: "Anleitungen & Tutorials",
+  codes: "Codes & Belohnungen",
+  progression: "Fortschritt & Geld",
+  mechanics: "Kernmechaniken",
+  controls: "Steuerung & Einstellungen",
+  community: "Community & Updates",
 };
 
 // locale → 分组标题映射
 const GROUP_TITLES_BY_LOCALE: Record<string, Record<string, string>> = {
-  ja: GROUP_TITLES_JA,
+  es: GROUP_TITLES_ES,
+  pt: GROUP_TITLES_PT,
+  de: GROUP_TITLES_DE,
 };
 
 // locale → "Overview" 翻译
 const OVERVIEW_LABEL_BY_LOCALE: Record<string, string> = {
-  ja: "一覧",
+  en: "Overview",
+  es: "Resumen",
+  pt: "Visão geral",
+  de: "Übersicht",
 };
 
 // 分组排序顺序
 const GROUP_ORDER: string[] = [
-  "guide", "races", "bosses", "maps", "skills", "codes", "tier-list",
+  "guide", "codes", "progression", "mechanics", "controls", "community",
 ];
 
 /**

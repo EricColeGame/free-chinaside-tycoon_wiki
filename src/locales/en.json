@@ -6,7 +6,17 @@
     "description": "Your ultimate guide to Free ChinaSide Tycoon on Roblox! Explore working codes, shipping and factory guides, workers, crates, raids, upgrades, and progression strategies.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
-  "nav": {},
+  "nav": {
+    "home": "Home",
+    "menu": "Menu",
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "codes": "Codes",
+    "progression": "Progression",
+    "mechanics": "Mechanics",
+    "controls": "Controls",
+    "community": "Community"
+  },
   "home": {
     "meta": {
       "title": "Free ChinaSide Tycoon Wiki - Codes, Guides & Updates",
@@ -435,7 +445,30 @@
       "secondary": "Play on Roblox"
     }
   },
-  "bosses": {},
+  "codes": {
+    "overviewTitle": "Free ChinaSide Tycoon Codes",
+    "overviewDescription": "Every working Free ChinaSide Tycoon code in one place, with redemption steps, reward breakdowns, and notes on which codes expire first."
+  },
+  "guide": {
+    "overviewTitle": "Free ChinaSide Tycoon Guides",
+    "overviewDescription": "Beginner-friendly Free ChinaSide Tycoon guides covering how to play, first-hour tips, and the fastest routes to a profitable shipping empire."
+  },
+  "progression": {
+    "overviewTitle": "Free ChinaSide Tycoon Progression",
+    "overviewDescription": "Level up faster and grow your fortune with Free ChinaSide Tycoon progression guides for money, upgrades, and long-term account growth."
+  },
+  "mechanics": {
+    "overviewTitle": "Free ChinaSide Tycoon Mechanics",
+    "overviewDescription": "Understand the systems behind Free ChinaSide Tycoon, from oil production and business management to the in-game economy and tycoon loop."
+  },
+  "controls": {
+    "overviewTitle": "Free ChinaSide Tycoon Controls",
+    "overviewDescription": "Full Free ChinaSide Tycoon controls for PC and mobile, plus the settings and keybinds you need to manage your business efficiently."
+  },
+  "community": {
+    "overviewTitle": "Free ChinaSide Tycoon Community",
+    "overviewDescription": "Follow Free ChinaSide Tycoon updates, release news, Discord and Reddit communities, and seasonal code drops all in one hub."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -466,9 +499,9 @@
     "officialYoutube": "ChinaSide Tycoon Videos",
     "vvBuilder": "ChinaSide Tycoon Codes",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
+    "codesGuides": "Codes & Rewards",
+    "progressionGuides": "Progression & Money",
+    "mechanicsGuides": "Mechanics & Economy",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }
