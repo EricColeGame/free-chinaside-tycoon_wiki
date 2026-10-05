@@ -34,27 +34,27 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your My Seafood Stand Journey",
+      "title": "Your Free ChinaSide Tycoon Journey",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Set up your shipping agent, process your first orders, and build steady cash flow with a proven opening route."
         },
         {
           "number": "2",
           "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "description": "Stack Star Rating, Followers, and Customers efficiently to level up faster and unlock stronger upgrades."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Best Money Farming",
+          "description": "Compare order payouts, factory production, and Offline Earnings to find the fastest route to more Cash."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in My Seafood Stand."
+          "title": "All Working Codes",
+          "description": "Redeem the latest active codes for free Cash, Crates, and temporary Boosts before they expire."
         }
       ]
     },
@@ -62,78 +62,78 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
+        "All Codes",
+        "Beginner Guide",
         "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Upgrade Priority"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Your first session from shipping agent setup to a steady order pipeline.",
+          "href": "/guide/free-chinaside-tycoon-beginner-guide"
         },
         {
           "badge": "Updated",
           "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "description": "Working codes for free Cash, Crates, and temporary Boosts.",
+          "href": "/codes/free-chinaside-tycoon-codes"
         },
         {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
-        },
-        {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
-        },
-        {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "badge": "Guide",
+          "title": "Factory Production",
+          "description": "Turn raw Stock into sellable goods and fix the slowest stage first.",
+          "href": "/mechanics/free-chinaside-tycoon-production"
         },
         {
           "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "title": "Fastest Way to Make Money",
+          "description": "Compare order payouts, production, and Offline Earnings for maximum Cash.",
+          "href": "/progression/free-chinaside-tycoon-fastest-way-to-make-money"
+        },
+        {
+          "badge": "New",
+          "title": "Level Up Fast",
+          "description": "Stack Star Rating, Followers, and Customers to climb the progression track.",
+          "href": "/progression/free-chinaside-tycoon-level-up"
         },
         {
           "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "title": "Upgrade Priority",
+          "description": "Spend Cash in the order that pays back fastest and compounds hardest.",
+          "href": "/progression/free-chinaside-tycoon-upgrades"
+        },
+        {
+          "badge": "Popular",
+          "title": "Shipping Business Loop",
+          "description": "Follow orders from intake and QC photos to profitable Shipping Hauls.",
+          "href": "/mechanics/free-chinaside-tycoon-business"
         },
         {
           "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
+          "title": "Tycoon Economy",
+          "description": "Understand Cash flow, reinvestment, and scaling your warehouse empire.",
+          "href": "/mechanics/free-chinaside-tycoon-economy"
         },
         {
           "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "Roblox Controls",
+          "description": "Keyboard, mouse, and mobile controls for running your business smoothly.",
+          "href": "/controls/free-chinaside-tycoon-controls"
         }
       ]
     },
     "aboutGame": {
-      "title": "What is My Seafood Stand?",
+      "title": "What is Free ChinaSide Tycoon?",
       "paragraphs": [
-        "My Seafood Stand is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Free ChinaSide Tycoon is a Roblox shipping business tycoon from Goyboy Games. You run a shipping agent operation, take customer orders, pack and photograph products, hire workers, expand your factory, and grow a warehouse empire one haul at a time.",
+        "Progress is built on Star Rating, Followers, Customers, Cash, and Offline Earnings. Manage police raids with Security staff, open Crates for rewards, and keep production moving so your business keeps earning even while you are away."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Goyboy Games"
         },
         {
           "label": "Platform",
@@ -141,186 +141,290 @@
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Business Tycoon"
         },
         {
           "label": "Visits",
-          "value": "12.6M+"
+          "value": "2.4M+"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Peak CCU",
+          "value": "6.1K"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Rating",
+          "value": "87.4%"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Updates",
+          "value": "Weekly"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
-      "title": "Explore My Seafood Stand Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore Free ChinaSide Tycoon Wiki",
+      "description": "Master your Roblox shipping empire with codes, beginner steps, factory production, worker roles, shipping orders, raid defense, crates, and progression guides.",
       "modules": [
         {
           "order": 1,
-          "name": "My Seafood Stand Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/my-seafood-stand-codes",
-          "displayType": "code-box",
+          "name": "Free ChinaSide Tycoon Codes",
+          "description": "All the latest working codes for free Cash, Crates, and temporary Boosts, plus a clear redemption walkthrough and the fastest places to catch new drops.",
+          "href": "/codes/free-chinaside-tycoon-codes",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "Cash",
+              "detail": "Starter and milestone codes pay out a one-time Cash boost toward your first upgrades.",
+              "badge": "Active"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "Crates",
+              "detail": "Some codes grant free Crates that roll into random rewards for your warehouse.",
+              "badge": "Active"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "Boosts",
+              "detail": "Temporary Boost codes speed up income for a short window, so redeem them right before a session."
+            },
+            {
+              "label": "Redeem",
+              "detail": "Open the codes menu in-game, type the exact code, submit, then check your balance or inventory."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/my-seafood-stand-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Free ChinaSide Tycoon Beginner Guide",
+          "description": "A first-session walkthrough covering your shipping agent setup, first orders, early upgrades, and the habits that build steady cash flow.",
+          "href": "/guide/free-chinaside-tycoon-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "1",
+              "detail": "Complete the tutorial and claim your starting Cash."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "2",
+              "detail": "Accept and process your first shipping orders at the counter."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "3",
+              "detail": "Buy the cheapest output upgrade with the shortest payback time."
+            },
+            {
+              "label": "4",
+              "detail": "Hire your first worker so the business earns while you are away."
+            },
+            {
+              "label": "5",
+              "detail": "Set up idle collection before you log off for the night."
+            },
+            {
+              "label": "6",
+              "detail": "Reinvest every payout into stalls, staff, and production lanes."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/my-seafood-stand-tier-list",
-          "displayType": "tier-grid",
+          "name": "Free ChinaSide Tycoon Factory Guide",
+          "description": "Understand how the Factory turns raw Stock into sellable goods, and which production upgrades keep your order pipeline flowing.",
+          "href": "/mechanics/free-chinaside-tycoon-production",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Stock",
+              "detail": "Factory production converts raw Stock into finished goods your orders can sell."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Pipeline",
+              "detail": "Extraction, processing, and assembly must stay balanced or the line stalls."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Upgrades",
+              "detail": "Fix the slowest stage first instead of buying the most expensive machine."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Automation",
+              "detail": "Automated production keeps goods moving while you handle orders up front."
+            },
+            {
+              "label": "Idle",
+              "detail": "Factory output continues offline, so queue production before you leave."
+            },
+            {
+              "label": "Storage",
+              "detail": "Expand storage before a full buffer blocks new production."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/my-seafood-stand-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Free ChinaSide Tycoon Workers",
+          "description": "Compare Packers, Photographers, Forklift Drivers, and Security staff, and learn which roles to hire at each stage of your business.",
+          "href": "/guide/free-chinaside-tycoon-how-to-play",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Packers",
+              "detail": "Packers prepare finished goods for shipment and keep orders moving out the door."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Photogs",
+              "detail": "Photographers handle product QC shots so orders pass inspection faster."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Forklift",
+              "detail": "Forklift Drivers move stock between storage and the loading area."
+            },
+            {
+              "label": "Security",
+              "detail": "Security staff reduce the impact of police raids on your operation."
+            },
+            {
+              "label": "Hiring",
+              "detail": "Hire the role that fixes your current bottleneck instead of staffing evenly."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/my-seafood-stand-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Free ChinaSide Tycoon Shipping Guide",
+          "description": "Follow the full business cycle from order intake and QC photos to Shipping Hauls, and see where each step turns into profit.",
+          "href": "/mechanics/free-chinaside-tycoon-business",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "1",
+              "detail": "Customers place orders at your shipping counter."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "2",
+              "detail": "Pull the required goods from factory stock."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "3",
+              "detail": "Pack the order and complete the QC photo step."
+            },
+            {
+              "label": "4",
+              "detail": "Load the finished order into a Shipping Haul."
+            },
+            {
+              "label": "5",
+              "detail": "Bank the payout and reinvest it into the next upgrade."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/my-seafood-stand-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Free ChinaSide Tycoon Raids",
+          "description": "Learn how Police Raids work, what they cost, and how Security staff or paying the fine can keep your business running.",
+          "href": "/mechanics/free-chinaside-tycoon-economy",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Warning",
+              "detail": "Raids trigger with a warning window, giving you a short time to react."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Security",
+              "detail": "Hired Security staff lower the damage a raid does to your operation."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Fines",
+              "detail": "Paying the fine resolves a raid quickly but takes a bite out of your Cash."
+            },
+            {
+              "label": "Downtime",
+              "detail": "A failed raid can pause production, so keep a cash buffer ready."
+            },
+            {
+              "label": "Defense",
+              "detail": "Upgrade defenses before expanding so a raid cannot stall your growth."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Free ChinaSide Tycoon Crates",
+          "description": "See how to earn and open Crates, what rewards they can drop, and when a Crate is worth chasing for your business.",
+          "href": "/codes/free-chinaside-tycoon-codes",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Cash",
+              "detail": "Crates can drop a lump sum of Cash toward your next upgrade."
+            },
+            {
+              "label": "Boosts",
+              "detail": "Temporary Boosts from Crates speed up income for a limited time."
+            },
+            {
+              "label": "Cosmetics",
+              "detail": "Seasonal Crates can contain signs, props, and warehouse decorations."
+            },
+            {
+              "label": "Codes",
+              "detail": "Some active codes hand out free Crates alongside Cash rewards."
+            },
+            {
+              "label": "Rewards",
+              "detail": "Open Crates during an active session so you can use Boosts immediately."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Free ChinaSide Tycoon Progression",
+          "description": "Track Star Rating, Followers, Customers, Cash, and Offline Earnings to see which growth system deserves your next investment.",
+          "href": "/progression/free-chinaside-tycoon-upgrades",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Star Rating and Offline Earnings drive the biggest long-term gains."
+            },
+            {
+              "label": "A",
+              "detail": "Factory production and worker automation compound your Cash flow."
+            },
+            {
+              "label": "B",
+              "detail": "Followers and Customers boost order volume once production keeps up."
+            },
+            {
+              "label": "C",
+              "detail": "Cosmetic warehouse upgrades are fun but add no economic return."
             }
           ]
         }
       ]
     },
     "faq": {
-      "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about My Seafood Stand.",
+      "title": "Free ChinaSide Tycoon FAQ",
+      "description": "Quick answers to the most common questions about Free ChinaSide Tycoon on Roblox.",
       "items": [
         {
-          "question": "What is My Seafood Stand?",
-          "answer": "My Seafood Stand is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is Free ChinaSide Tycoon?",
+          "answer": "Free ChinaSide Tycoon is a Roblox business tycoon from Goyboy Games. You run a shipping agent operation, process customer orders, hire workers, expand your factory, handle police raids, open Crates, and earn Offline Earnings while you are away."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "How do I start in Free ChinaSide Tycoon?",
+          "answer": "Finish the tutorial, take your first shipping orders, and reinvest every payout into the cheapest output upgrade. Hire your first worker early so the business keeps earning between sessions."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "Are there Free ChinaSide Tycoon codes?",
+          "answer": "Yes. Redeem working codes in the in-game codes menu for Cash, Crates, and temporary Boosts. Codes can expire after an update, so redeem them as soon as you find them."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "Which workers should I hire first in Free ChinaSide Tycoon?",
+          "answer": "Hire the role that fixes your current bottleneck. Packers and Photographers keep orders moving, Forklift Drivers move stock, and Security staff reduce the cost of police raids."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "How do I earn Cash faster in Free ChinaSide Tycoon?",
+          "answer": "Balance factory production with order demand, stack production and worker upgrades, and set up idle collection before logging off so Offline Earnings fund your next purchase."
         }
       ]
     },
