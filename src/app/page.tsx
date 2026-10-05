@@ -5,7 +5,7 @@ export default function RootPage() {
     <main>
       <meta httpEquiv="refresh" content="0;url=/en" />
       <p>
-        Redirecting to <Link href="/en">VV: ULTIMATUM Wiki</Link>…
+        Redirecting to <Link href="/en">Free ChinaSide Tycoon Wiki</Link>…
       </p>
     </main>
   );

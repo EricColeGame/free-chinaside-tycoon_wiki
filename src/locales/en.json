@@ -1,9 +1,9 @@
 {
   "site": {
-    "name": "My Seafood Stand Wiki",
-    "shortName": "My Seafood Stand",
-    "tagline": "Complete Guides, Codes, Recipes & Tier Lists",
-    "description": "Your ultimate guide to My Seafood Stand on Roblox! Explore active codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
+    "name": "Free ChinaSide Tycoon Wiki",
+    "shortName": "Free ChinaSide Tycoon",
+    "tagline": "Codes, Shipping Guides, Factory Tips & Progression",
+    "description": "Your ultimate guide to Free ChinaSide Tycoon on Roblox! Explore working codes, shipping and factory guides, workers, crates, raids, upgrades, and progression strategies.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
   "nav": {
@@ -26,23 +26,23 @@
   },
   "home": {
     "meta": {
-      "title": "My Seafood Stand Wiki — Codes, Recipes, Upgrades & Guides",
-      "description": "Complete My Seafood Stand guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
+      "title": "Free ChinaSide Tycoon Wiki - Codes, Guides & Updates",
+      "description": "Find ChinaSide Tycoon codes, beginner guides, upgrades, workers, crates, factory tips, rewards, and the latest Roblox updates in one place."
     },
     "hero": {
-      "eyebrow": "Fan-Made Community Wiki",
-      "title": "My Seafood Stand",
-      "description": "Master your restaurant in My Seafood Stand on Roblox. Access all active codes, complete fish & recipe catalog, optimal upgrades, and pro money-making strategies.",
+      "eyebrow": "Roblox Shipping Business Tycoon",
+      "title": "Free ChinaSide Tycoon Wiki",
+      "description": "Run a shipping business, process orders, hire workers, expand your factory, open crates, earn offline income, and grow your ChinaSide Tycoon empire on Roblox.",
       "stats": [
-        "All Codes",
-        "All Fish & Recipes",
-        "Upgrade Guides",
-        "Fast Cash Tips"
+        "2.4M+ Total Visits",
+        "6.1K Peak CCU",
+        "11 Active Codes",
+        "Weekly Updates"
       ],
-      "primaryCta": "Beginner Guide",
-      "secondaryCta": "Seafood Tier List",
+      "primaryCta": "Play on Roblox",
+      "secondaryCta": "Beginner Guide",
       "tertiaryCta": "Active Codes",
-      "videoLabel": "Official media"
+      "videoLabel": "Gameplay Tutorial"
     },
     "updates": {
       "title": "Latest Updates",
@@ -342,8 +342,8 @@
       ]
     },
     "finalCta": {
-      "title": "Ready to Master My Seafood Stand?",
-      "description": "From your first steps in Fort Adams to endgame boss fights our community wiki has you covered with free, up-to-date guides.",
+      "title": "Ready to Build Your ChinaSide Tycoon Empire?",
+      "description": "From your first shipping orders to a fully upgraded factory, our community wiki covers every worker, crate, raid, and upgrade with free, up-to-date guides.",
       "primary": "Read the Beginner Guide",
       "secondary": "Play on Roblox"
     }
@@ -379,17 +379,17 @@
     "noGuidesAvailable": "No guides available yet. Check back soon!"
   },
   "footer": {
-    "aboutTitle": "My Seafood Stand Wiki",
-    "about": "My Seafood Stand Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.",
+    "aboutTitle": "Free ChinaSide Tycoon Wiki",
+    "about": "Free ChinaSide Tycoon Wiki is an independent fan-built guide hub covering shipping orders, factory production, workers, crates, raids, upgrades, and essential game knowledge for new and veteran players alike.",
     "quickLinks": "Quick Links",
     "guides": "Guides",
     "legal": "Legal",
-    "copyright": "2026 My Seafood Stand Wiki. Not affiliated with Midnight Continent or Roblox.",
-    "description": "Free Bleach-inspired fighting RPG on Roblox. 3 races, 130+ skills, Lv100 cap.",
-    "playGame": "Play My Seafood Stand",
-    "officialDiscord": "Official Discord",
-    "officialYoutube": "Official YouTube",
-    "vvBuilder": "VV Builder (Skill Planner)",
+    "copyright": "2026 Free ChinaSide Tycoon Wiki. Not affiliated with Goyboy Games or Roblox.",
+    "description": "Free Roblox shipping tycoon. Process orders, hire workers, run a factory, open crates, and earn offline income.",
+    "playGame": "Play on Roblox",
+    "officialDiscord": "Official Roblox Group",
+    "officialYoutube": "ChinaSide Tycoon Videos",
+    "vvBuilder": "ChinaSide Tycoon Codes",
     "beginnerGuide": "Beginner Guide",
     "raceGuides": "Race Guides",
     "bossGuides": "Boss Guides",
