@@ -1,1 +1,508 @@
-{}
+{
+  "site": {
+    "name": "Free ChinaSide Tycoon Wiki",
+    "shortName": "Free ChinaSide Tycoon",
+    "tagline": "Códigos, guias de envios, dicas de fábrica e progressão",
+    "description": "O seu guia definitivo para Free ChinaSide Tycoon no Roblox! Descubra códigos ativos, guias de envios e fábrica, trabalhadores, caixas, incursões, melhorias e estratégias de progressão.",
+    "legalNotice": "Wiki de fãs não oficial. Feita por jogadores, para jogadores."
+  },
+  "nav": {
+    "home": "Início",
+    "menu": "Menu",
+    "toggleTheme": "Alternar tema",
+    "guide": "Guia",
+    "codes": "Códigos",
+    "progression": "Progressão",
+    "mechanics": "Mecânicas",
+    "controls": "Controlos",
+    "community": "Comunidade"
+  },
+  "home": {
+    "meta": {
+      "title": "Free ChinaSide Tycoon Wiki: códigos, guias e novidades",
+      "description": "Encontre códigos de ChinaSide Tycoon, guias para iniciantes, melhorias, trabalhadores, caixas, dicas de fábrica, recompensas e as últimas novidades do Roblox num só lugar."
+    },
+    "hero": {
+      "eyebrow": "Tycoon de negócios de envios no Roblox",
+      "title": "Free ChinaSide Tycoon Wiki",
+      "description": "Gira um negócio de envios, processa encomendas, contrata trabalhadores, amplia a tua fábrica, abre caixas, ganha rendimento offline e faz crescer o teu império ChinaSide Tycoon no Roblox.",
+      "stats": [
+        "2,4 M+ visitas totais",
+        "6,1K CCU máximo",
+        "11 códigos ativos",
+        "Atualizações semanais"
+      ],
+      "primaryCta": "Jogar no Roblox",
+      "secondaryCta": "Guia para iniciantes",
+      "tertiaryCta": "Códigos ativos",
+      "videoLabel": "Tutorial de gameplay"
+    },
+    "updates": {
+      "title": "Últimas novidades",
+      "browse": "Ver todos os guias",
+      "viewAll": "Ver tudo"
+    },
+    "start": {
+      "eyebrow": "Comece aqui",
+      "title": "A tua jornada em Free ChinaSide Tycoon",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guia para iniciantes",
+          "description": "Configura o teu agente de envios, processa as primeiras encomendas e cria um fluxo de caixa estável com uma rota inicial comprovada."
+        },
+        {
+          "number": "2",
+          "title": "Nivelamento mais rápido",
+          "description": "Acumula classificação por estrelas, seguidores e clientes de forma eficiente para subir de nível mais rápido e desbloquear melhorias mais fortes."
+        },
+        {
+          "number": "3",
+          "title": "Melhor farming de dinheiro",
+          "description": "Compara pagamentos de encomendas, produção da fábrica e rendimento offline para encontrar a rota mais rápida para mais dinheiro."
+        },
+        {
+          "number": "4",
+          "title": "Todos os códigos ativos",
+          "description": "Resgata os códigos ativos mais recentes para obter dinheiro, caixas e impulsos temporários grátis antes de expirarem."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Em alta agora",
+      "quickLinks": [
+        "Todos os códigos",
+        "Guia para iniciantes",
+        "Nivelamento mais rápido",
+        "Prioridade de melhorias"
+      ],
+      "cards": [
+        {
+          "badge": "Iniciante",
+          "title": "Guia para iniciantes",
+          "description": "A tua primeira sessão, desde configurar o agente de envios até ter uma fila de encomendas estável.",
+          "href": "/guide/free-chinaside-tycoon-beginner-guide"
+        },
+        {
+          "badge": "Atualizado",
+          "title": "Códigos ativos",
+          "description": "Códigos ativos para dinheiro, caixas e impulsos temporários grátis.",
+          "href": "/codes/free-chinaside-tycoon-codes"
+        },
+        {
+          "badge": "Guia",
+          "title": "Produção da fábrica",
+          "description": "Transforma stock bruto em produtos vendáveis e corrige primeiro a etapa mais lenta.",
+          "href": "/mechanics/free-chinaside-tycoon-production"
+        },
+        {
+          "badge": "Popular",
+          "title": "A forma mais rápida de ganhar dinheiro",
+          "description": "Compara pagamentos de encomendas, produção e rendimento offline para maximizar o dinheiro.",
+          "href": "/progression/free-chinaside-tycoon-fastest-way-to-make-money"
+        },
+        {
+          "badge": "Novo",
+          "title": "Subir de nível rápido",
+          "description": "Acumula classificação por estrelas, seguidores e clientes para escalar na progressão.",
+          "href": "/progression/free-chinaside-tycoon-level-up"
+        },
+        {
+          "badge": "Popular",
+          "title": "Prioridade de melhorias",
+          "description": "Gasta o dinheiro na ordem que rende mais rápido e acumula mais.",
+          "href": "/progression/free-chinaside-tycoon-upgrades"
+        },
+        {
+          "badge": "Popular",
+          "title": "Ciclo do negócio de envios",
+          "description": "Segue as encomendas desde a receção e as fotos de controlo de qualidade até aos envios lucrativos.",
+          "href": "/mechanics/free-chinaside-tycoon-business"
+        },
+        {
+          "badge": "Novo",
+          "title": "Economia do tycoon",
+          "description": "Compreende o fluxo de dinheiro, o reinvestimento e como escalar o teu império de armazéns.",
+          "href": "/mechanics/free-chinaside-tycoon-economy"
+        },
+        {
+          "badge": "Novo",
+          "title": "Controlos do Roblox",
+          "description": "Controlos de teclado, rato e telemóvel para gerir o teu negócio sem problemas.",
+          "href": "/controls/free-chinaside-tycoon-controls"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "O que é Free ChinaSide Tycoon?",
+      "paragraphs": [
+        "Free ChinaSide Tycoon é um tycoon de negócios de envios do Roblox criado pela Goyboy Games. Giras uma operação de agente de envios, aceitas encomendas de clientes, embalas e fotografas produtos, contratas trabalhadores, amplias a tua fábrica e constróis um império de armazéns, um envio de cada vez.",
+        "O progresso baseia-se na classificação por estrelas, seguidores, clientes, dinheiro e rendimento offline. Gere as incursões policiais com pessoal de segurança, abre caixas para obter recompensas e mantém a produção a andar para que o teu negócio continue a render mesmo quando estás ausente."
+      ],
+      "stats": [
+        {
+          "label": "Programadora",
+          "value": "Goyboy Games"
+        },
+        {
+          "label": "Plataforma",
+          "value": "Roblox"
+        },
+        {
+          "label": "Género",
+          "value": "Tycoon de negócios"
+        },
+        {
+          "label": "Visitas",
+          "value": "2,4 M+"
+        },
+        {
+          "label": "CCU máximo",
+          "value": "6,1K"
+        },
+        {
+          "label": "Avaliação",
+          "value": "87,4 %"
+        },
+        {
+          "label": "Atualizações",
+          "value": "Semanais"
+        }
+      ],
+      "cta": "Explorar todos os guias"
+    },
+    "explore": {
+      "title": "Explora a wiki de Free ChinaSide Tycoon",
+      "description": "Domina o teu império de envios do Roblox com códigos, passos para iniciantes, produção de fábrica, funções de trabalhadores, encomendas de envio, defesa contra incursões, caixas e guias de progressão.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Códigos de Free ChinaSide Tycoon",
+          "description": "Todos os códigos ativos mais recentes para dinheiro, caixas e impulsos temporários grátis, além de um tutorial de resgate claro e os melhores locais para encontrar novos códigos.",
+          "href": "/codes/free-chinaside-tycoon-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Dinheiro",
+              "detail": "Os códigos de início e de marcos pagam um impulso único de dinheiro para as tuas primeiras melhorias.",
+              "badge": "Ativo"
+            },
+            {
+              "label": "Caixas",
+              "detail": "Alguns códigos concedem caixas grátis que se transformam em recompensas aleatórias para o teu armazém.",
+              "badge": "Ativo"
+            },
+            {
+              "label": "Impulsos",
+              "detail": "Os códigos de impulso temporário aceleram o rendimento durante um curto período, por isso resgata-os mesmo antes de uma sessão."
+            },
+            {
+              "label": "Resgatar",
+              "detail": "Abre o menu de códigos no jogo, escreve o código exato, envia e depois verifica o teu saldo ou inventário."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guia para iniciantes de Free ChinaSide Tycoon",
+          "description": "Um percurso pela primeira sessão que cobre a configuração do teu agente de envios, as primeiras encomendas, as melhorias iniciais e os hábitos que criam um fluxo de caixa estável.",
+          "href": "/guide/free-chinaside-tycoon-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Completa o tutorial e reclama o teu dinheiro inicial."
+            },
+            {
+              "label": "2",
+              "detail": "Aceita e processa as tuas primeiras encomendas de envio no balcão."
+            },
+            {
+              "label": "3",
+              "detail": "Compra a melhoria de produção mais barata com o menor tempo de retorno."
+            },
+            {
+              "label": "4",
+              "detail": "Contrata o teu primeiro trabalhador para que o negócio renda enquanto estás ausente."
+            },
+            {
+              "label": "5",
+              "detail": "Configura a recolha offline antes de terminares a sessão à noite."
+            },
+            {
+              "label": "6",
+              "detail": "Reinveste cada pagamento em bancas, pessoal e linhas de produção."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Guia de fábrica de Free ChinaSide Tycoon",
+          "description": "Compreende como a fábrica transforma stock bruto em produtos vendáveis e que melhorias de produção mantêm a tua fila de encomendas a fluir.",
+          "href": "/mechanics/free-chinaside-tycoon-production",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Stock",
+              "detail": "A produção da fábrica converte stock bruto em produtos acabados que as tuas encomendas podem vender."
+            },
+            {
+              "label": "Fila",
+              "detail": "Extração, processamento e montagem têm de se manter equilibrados ou a linha para."
+            },
+            {
+              "label": "Melhorias",
+              "detail": "Corrige primeiro a etapa mais lenta em vez de comprar a máquina mais cara."
+            },
+            {
+              "label": "Automação",
+              "detail": "A produção automatizada mantém os produtos a andar enquanto tratas das encomendas à frente."
+            },
+            {
+              "label": "Offline",
+              "detail": "A produção da fábrica continua offline, por isso enfileira produção antes de saíres."
+            },
+            {
+              "label": "Armazenamento",
+              "detail": "Amplia o armazenamento antes que um buffer cheio bloqueie nova produção."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Trabalhadores de Free ChinaSide Tycoon",
+          "description": "Compara embaladores, fotógrafos, condutores de empilhador e pessoal de segurança, e aprende que funções contratar em cada fase do teu negócio.",
+          "href": "/guide/free-chinaside-tycoon-how-to-play",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Embaladores",
+              "detail": "Os embaladores preparam os produtos acabados para envio e mantêm as encomendas a sair."
+            },
+            {
+              "label": "Fotógrafos",
+              "detail": "Os fotógrafos tratam das fotos de controlo de qualidade para que as encomendas passem a inspeção mais depressa."
+            },
+            {
+              "label": "Empilhador",
+              "detail": "Os condutores de empilhador movem o stock entre o armazém e a zona de carregamento."
+            },
+            {
+              "label": "Segurança",
+              "detail": "O pessoal de segurança reduz o impacto das incursões policiais na tua operação."
+            },
+            {
+              "label": "Contratação",
+              "detail": "Contrata a função que resolve o teu estrangulamento atual em vez de distribuir pessoal por igual."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Guia de envios de Free ChinaSide Tycoon",
+          "description": "Segue o ciclo completo do negócio, desde a receção de encomendas e as fotos de controlo de qualidade até aos envios, e vê onde cada passo se transforma em lucro.",
+          "href": "/mechanics/free-chinaside-tycoon-business",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Os clientes fazem encomendas no teu balcão de envios."
+            },
+            {
+              "label": "2",
+              "detail": "Retira os produtos necessários do stock da fábrica."
+            },
+            {
+              "label": "3",
+              "detail": "Embala a encomenda e completa o passo da foto de controlo de qualidade."
+            },
+            {
+              "label": "4",
+              "detail": "Carrega a encomenda concluída num envio."
+            },
+            {
+              "label": "5",
+              "detail": "Recebe o pagamento e reinveste-o na próxima melhoria."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Incursões de Free ChinaSide Tycoon",
+          "description": "Aprende como funcionam as incursões policiais, quanto custam e como o pessoal de segurança ou o pagamento da multa podem manter o teu negócio a funcionar.",
+          "href": "/mechanics/free-chinaside-tycoon-economy",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Aviso",
+              "detail": "As incursões disparam com uma janela de aviso que te dá pouco tempo para reagir."
+            },
+            {
+              "label": "Segurança",
+              "detail": "O pessoal de segurança contratado reduz os danos que uma incursão causa à tua operação."
+            },
+            {
+              "label": "Multas",
+              "detail": "Pagar a multa resolve uma incursão rapidamente, mas morde o teu dinheiro."
+            },
+            {
+              "label": "Inatividade",
+              "detail": "Uma incursão falhada pode pausar a produção, por isso mantém uma reserva de dinheiro pronta."
+            },
+            {
+              "label": "Defesa",
+              "detail": "Melhora as defesas antes de expandir para que uma incursão não trave o teu crescimento."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Caixas de Free ChinaSide Tycoon",
+          "description": "Vê como ganhar e abrir caixas, que recompensas podem sair e quando vale a pena perseguir uma caixa para o teu negócio.",
+          "href": "/codes/free-chinaside-tycoon-codes",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Dinheiro",
+              "detail": "As caixas podem largar uma soma de dinheiro para a tua próxima melhoria."
+            },
+            {
+              "label": "Impulsos",
+              "detail": "Os impulsos temporários das caixas aceleram o rendimento durante um tempo limitado."
+            },
+            {
+              "label": "Cosméticos",
+              "detail": "As caixas sazonais podem conter placas, adereços e decorações de armazém."
+            },
+            {
+              "label": "Códigos",
+              "detail": "Alguns códigos ativos distribuem caixas grátis juntamente com recompensas de dinheiro."
+            },
+            {
+              "label": "Recompensas",
+              "detail": "Abre caixas durante uma sessão ativa para poderes usar os impulsos imediatamente."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Progressão de Free ChinaSide Tycoon",
+          "description": "Acompanha a classificação por estrelas, seguidores, clientes, dinheiro e rendimento offline para ver que sistema de crescimento merece o teu próximo investimento.",
+          "href": "/progression/free-chinaside-tycoon-upgrades",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "A classificação por estrelas e o rendimento offline geram os maiores ganhos a longo prazo."
+            },
+            {
+              "label": "A",
+              "detail": "A produção da fábrica e a automação de trabalhadores multiplicam o teu fluxo de dinheiro."
+            },
+            {
+              "label": "B",
+              "detail": "Seguidores e clientes aumentam o volume de encomendas assim que a produção acompanha."
+            },
+            {
+              "label": "C",
+              "detail": "As melhorias cosméticas do armazém são divertidas mas não trazem retorno económico."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Perguntas frequentes de Free ChinaSide Tycoon",
+      "description": "Respostas rápidas às perguntas mais comuns sobre Free ChinaSide Tycoon no Roblox.",
+      "items": [
+        {
+          "question": "O que é Free ChinaSide Tycoon?",
+          "answer": "Free ChinaSide Tycoon é um tycoon de negócios do Roblox da Goyboy Games. Giras uma operação de agente de envios, processas encomendas de clientes, contratas trabalhadores, amplias a tua fábrica, geres incursões policiais, abres caixas e ganhas rendimento offline enquanto estás ausente."
+        },
+        {
+          "question": "Como começo em Free ChinaSide Tycoon?",
+          "answer": "Termina o tutorial, aceita as tuas primeiras encomendas de envio e reinveste cada pagamento na melhoria de produção mais barata. Contrata o teu primeiro trabalhador cedo para que o negócio continue a render entre sessões."
+        },
+        {
+          "question": "Existem códigos de Free ChinaSide Tycoon?",
+          "answer": "Sim. Resgata códigos ativos no menu de códigos do jogo para obter dinheiro, caixas e impulsos temporários. Os códigos podem expirar após uma atualização, por isso resgata-os assim que os encontrares."
+        },
+        {
+          "question": "Que trabalhadores devo contratar primeiro em Free ChinaSide Tycoon?",
+          "answer": "Contrata a função que resolve o teu estrangulamento atual. Embaladores e fotógrafos mantêm as encomendas a andar, os condutores de empilhador movem o stock e o pessoal de segurança reduz o custo das incursões policiais."
+        },
+        {
+          "question": "Como ganho dinheiro mais rápido em Free ChinaSide Tycoon?",
+          "answer": "Equilibra a produção da fábrica com a procura de encomendas, acumula melhorias de produção e de trabalhadores, e configura a recolha offline antes de saíres para que o rendimento offline financie a tua próxima compra."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Pronto para construir o teu império ChinaSide Tycoon?",
+      "description": "Desde as tuas primeiras encomendas de envio até uma fábrica totalmente melhorada, a nossa wiki comunitária cobre cada trabalhador, caixa, incursão e melhoria com guias gratuitos e atualizados.",
+      "primary": "Ler o guia para iniciantes",
+      "secondary": "Jogar no Roblox"
+    }
+  },
+  "codes": {
+    "overviewTitle": "Códigos de Free ChinaSide Tycoon",
+    "overviewDescription": "Todos os códigos ativos de Free ChinaSide Tycoon num só lugar, com passos de resgate, detalhes das recompensas e notas sobre quais os códigos que expiram primeiro."
+  },
+  "guide": {
+    "overviewTitle": "Guias de Free ChinaSide Tycoon",
+    "overviewDescription": "Guias de Free ChinaSide Tycoon para iniciantes que cobrem como jogar, dicas para a primeira hora e as rotas mais rápidas para um império de envios lucrativo."
+  },
+  "progression": {
+    "overviewTitle": "Progressão de Free ChinaSide Tycoon",
+    "overviewDescription": "Sobe de nível mais rápido e aumenta a tua fortuna com os guias de progressão de Free ChinaSide Tycoon sobre dinheiro, melhorias e crescimento de conta a longo prazo."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecânicas de Free ChinaSide Tycoon",
+    "overviewDescription": "Compreende os sistemas por trás de Free ChinaSide Tycoon, desde a produção de petróleo e a gestão do negócio até à economia do jogo e ao ciclo do tycoon."
+  },
+  "controls": {
+    "overviewTitle": "Controlos de Free ChinaSide Tycoon",
+    "overviewDescription": "Todos os controlos de Free ChinaSide Tycoon para PC e telemóvel, além das definições e teclas de atalho de que precisas para gerir o teu negócio com eficiência."
+  },
+  "community": {
+    "overviewTitle": "Comunidade de Free ChinaSide Tycoon",
+    "overviewDescription": "Segue as novidades de Free ChinaSide Tycoon, notícias de lançamento, comunidades de Discord e Reddit, e códigos sazonais, tudo num só hub."
+  },
+  "shared": {
+    "wikiNavigation": "Navegação da wiki",
+    "activeCodes": "Códigos ativos",
+    "updated": "Atualizado",
+    "viewAllCodes": "Ver todos os códigos",
+    "playOnRoblox": "Jogar no Roblox",
+    "inThisSection": "Nesta secção",
+    "tableOfContents": "Índice",
+    "nextSteps": "Próximos passos",
+    "needHelp": "Precisas de ajuda?",
+    "relatedReading": "Leitura relacionada",
+    "relatedGuides": "Guias relacionados",
+    "readMore": "Ler mais",
+    "officialMedia": "Média oficial",
+    "home": "Início",
+    "noGuidesAvailable": "Ainda não há guias disponíveis. Volta em breve!"
+  },
+  "footer": {
+    "aboutTitle": "Free ChinaSide Tycoon Wiki",
+    "about": "A Free ChinaSide Tycoon Wiki é um centro de guias independente criado por fãs que cobre encomendas de envio, produção de fábrica, trabalhadores, caixas, incursões, melhorias e conhecimentos essenciais do jogo, tanto para jogadores novos como veteranos.",
+    "quickLinks": "Ligações rápidas",
+    "guides": "Guias",
+    "legal": "Legal",
+    "copyright": "2026 Free ChinaSide Tycoon Wiki. Sem afiliação com a Goyboy Games ou a Roblox.",
+    "description": "Tycoon de envios gratuito do Roblox. Processa encomendas, contrata trabalhadores, gere uma fábrica, abre caixas e ganha rendimento offline.",
+    "playGame": "Jogar no Roblox",
+    "officialDiscord": "Grupo oficial do Roblox",
+    "officialYoutube": "Vídeos de ChinaSide Tycoon",
+    "vvBuilder": "Códigos de ChinaSide Tycoon",
+    "beginnerGuide": "Guia para iniciantes",
+    "codesGuides": "Códigos e recompensas",
+    "progressionGuides": "Progressão e dinheiro",
+    "mechanicsGuides": "Mecânicas e economia",
+    "privacyPolicy": "Política de privacidade",
+    "termsOfService": "Termos de serviço"
+  }
+}

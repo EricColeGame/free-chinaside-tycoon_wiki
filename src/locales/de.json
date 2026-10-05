@@ -1,1 +1,508 @@
-{}
+{
+  "site": {
+    "name": "Free ChinaSide Tycoon Wiki",
+    "shortName": "Free ChinaSide Tycoon",
+    "tagline": "Codes, Versand-Guides, Fabrik-Tipps & Fortschritt",
+    "description": "Dein ultimativer Guide zu Free ChinaSide Tycoon auf Roblox! Entdecke funktionierende Codes, Versand- und Fabrik-Guides, Arbeiter, Kisten, Razzien, Upgrades und Fortschrittsstrategien.",
+    "legalNotice": "Inoffizielles Fan-Wiki. Von Spielern für Spieler gemacht."
+  },
+  "nav": {
+    "home": "Startseite",
+    "menu": "Menü",
+    "toggleTheme": "Design wechseln",
+    "guide": "Guide",
+    "codes": "Codes",
+    "progression": "Fortschritt",
+    "mechanics": "Mechaniken",
+    "controls": "Steuerung",
+    "community": "Community"
+  },
+  "home": {
+    "meta": {
+      "title": "Free ChinaSide Tycoon Wiki – Codes, Guides & Updates",
+      "description": "Finde ChinaSide-Tycoon-Codes, Anfänger-Guides, Upgrades, Arbeiter, Kisten, Fabrik-Tipps, Belohnungen und die neuesten Roblox-Updates an einem Ort."
+    },
+    "hero": {
+      "eyebrow": "Roblox-Versandbusiness-Tycoon",
+      "title": "Free ChinaSide Tycoon Wiki",
+      "description": "Führe ein Versandunternehmen, bearbeite Bestellungen, stelle Arbeiter ein, erweitere deine Fabrik, öffne Kisten, verdiene Offline-Einkommen und baue dein ChinaSide-Tycoon-Imperium auf Roblox aus.",
+      "stats": [
+        "2,4 Mio.+ Besuche",
+        "6,1K Peak-CCU",
+        "11 aktive Codes",
+        "Wöchentliche Updates"
+      ],
+      "primaryCta": "Auf Roblox spielen",
+      "secondaryCta": "Anfänger-Guide",
+      "tertiaryCta": "Aktive Codes",
+      "videoLabel": "Gameplay-Tutorial"
+    },
+    "updates": {
+      "title": "Neueste Updates",
+      "browse": "Alle Guides durchsuchen",
+      "viewAll": "Alle anzeigen"
+    },
+    "start": {
+      "eyebrow": "Hier starten",
+      "title": "Deine Free ChinaSide Tycoon Reise",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Anfänger-Guide",
+          "description": "Richte deinen Versandagenten ein, bearbeite deine ersten Bestellungen und baue mit einer bewährten Startroute einen stetigen Cashflow auf."
+        },
+        {
+          "number": "2",
+          "title": "Schnellstes Leveln",
+          "description": "Stapel Sternbewertung, Follower und Kunden effizient, um schneller aufzusteigen und stärkere Upgrades freizuschalten."
+        },
+        {
+          "number": "3",
+          "title": "Bestes Geld-Farming",
+          "description": "Vergleiche Bestellauszahlungen, Fabrikproduktion und Offline-Einkommen, um den schnellsten Weg zu mehr Cash zu finden."
+        },
+        {
+          "number": "4",
+          "title": "Alle funktionierenden Codes",
+          "description": "Löse die neuesten aktiven Codes für kostenloses Cash, Kisten und temporäre Boosts ein, bevor sie ablaufen."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Beliebte Seiten",
+      "title": "Aktuell im Trend",
+      "quickLinks": [
+        "Alle Codes",
+        "Anfänger-Guide",
+        "Schnellstes Leveln",
+        "Upgrade-Priorität"
+      ],
+      "cards": [
+        {
+          "badge": "Anfänger",
+          "title": "Anfänger-Guide",
+          "description": "Deine erste Session – vom Einrichten des Versandagenten bis zu einer stetigen Bestellpipeline.",
+          "href": "/guide/free-chinaside-tycoon-beginner-guide"
+        },
+        {
+          "badge": "Aktualisiert",
+          "title": "Aktive Codes",
+          "description": "Funktionierende Codes für kostenloses Cash, Kisten und temporäre Boosts.",
+          "href": "/codes/free-chinaside-tycoon-codes"
+        },
+        {
+          "badge": "Guide",
+          "title": "Fabrikproduktion",
+          "description": "Verwandle rohen Bestand in verkaufsfähige Waren und behebe zuerst die langsamste Stufe.",
+          "href": "/mechanics/free-chinaside-tycoon-production"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Schnellster Weg, Geld zu verdienen",
+          "description": "Vergleiche Bestellauszahlungen, Produktion und Offline-Einkommen für maximales Cash.",
+          "href": "/progression/free-chinaside-tycoon-fastest-way-to-make-money"
+        },
+        {
+          "badge": "Neu",
+          "title": "Schnell aufsteigen",
+          "description": "Stapel Sternbewertung, Follower und Kunden, um die Fortschrittsspur zu erklimmen.",
+          "href": "/progression/free-chinaside-tycoon-level-up"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Upgrade-Priorität",
+          "description": "Gib Cash in der Reihenfolge aus, die sich am schnellsten amortisiert und am stärksten verzinst.",
+          "href": "/progression/free-chinaside-tycoon-upgrades"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Versandbusiness-Loop",
+          "description": "Verfolge Bestellungen von der Annahme und den QC-Fotos bis zu profitablen Versandlieferungen.",
+          "href": "/mechanics/free-chinaside-tycoon-business"
+        },
+        {
+          "badge": "Neu",
+          "title": "Tycoon-Wirtschaft",
+          "description": "Verstehe Cashflow, Reinvestition und das Skalieren deines Lagerimperiums.",
+          "href": "/mechanics/free-chinaside-tycoon-economy"
+        },
+        {
+          "badge": "Neu",
+          "title": "Roblox-Steuerung",
+          "description": "Tastatur-, Maus- und Mobilsteuerung, um dein Unternehmen reibungslos zu führen.",
+          "href": "/controls/free-chinaside-tycoon-controls"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Was ist Free ChinaSide Tycoon?",
+      "paragraphs": [
+        "Free ChinaSide Tycoon ist ein Roblox-Versandbusiness-Tycoon von Goyboy Games. Du führst ein Versandagentur-Unternehmen, nimmst Kundenbestellungen an, verpackst und fotografierst Produkte, stellst Arbeiter ein, erweiterst deine Fabrik und baust ein Lagerimperium auf – eine Lieferung nach der anderen.",
+        "Der Fortschritt basiert auf Sternbewertung, Followern, Kunden, Cash und Offline-Einkommen. Bewältige Polizeirazzien mit Sicherheitspersonal, öffne Kisten für Belohnungen und halte die Produktion am Laufen, damit dein Unternehmen auch in deiner Abwesenheit verdient."
+      ],
+      "stats": [
+        {
+          "label": "Entwickler",
+          "value": "Goyboy Games"
+        },
+        {
+          "label": "Plattform",
+          "value": "Roblox"
+        },
+        {
+          "label": "Genre",
+          "value": "Business-Tycoon"
+        },
+        {
+          "label": "Besuche",
+          "value": "2,4 Mio.+"
+        },
+        {
+          "label": "Peak-CCU",
+          "value": "6,1K"
+        },
+        {
+          "label": "Bewertung",
+          "value": "87,4 %"
+        },
+        {
+          "label": "Updates",
+          "value": "Wöchentlich"
+        }
+      ],
+      "cta": "Alle Guides erkunden"
+    },
+    "explore": {
+      "title": "Free ChinaSide Tycoon Wiki erkunden",
+      "description": "Meistere dein Roblox-Versandimperium mit Codes, Anfängerschritten, Fabrikproduktion, Arbeiterrollen, Versandbestellungen, Razzien-Abwehr, Kisten und Fortschritts-Guides.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Free ChinaSide Tycoon Codes",
+          "description": "Alle neuesten funktionierenden Codes für kostenloses Cash, Kisten und temporäre Boosts, plus eine klare Einlöse-Anleitung und die besten Orte für neue Drops.",
+          "href": "/codes/free-chinaside-tycoon-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Cash",
+              "detail": "Starter- und Meilenstein-Codes zahlen einen einmaligen Cash-Boost für deine ersten Upgrades aus.",
+              "badge": "Aktiv"
+            },
+            {
+              "label": "Kisten",
+              "detail": "Manche Codes gewähren kostenlose Kisten, die zufällige Belohnungen für dein Lager enthalten.",
+              "badge": "Aktiv"
+            },
+            {
+              "label": "Boosts",
+              "detail": "Temporäre Boost-Codes beschleunigen das Einkommen für kurze Zeit – löse sie direkt vor einer Session ein."
+            },
+            {
+              "label": "Einlösen",
+              "detail": "Öffne das Codes-Menü im Spiel, gib den exakten Code ein, sende ihn ab und prüfe dann dein Guthaben oder Inventar."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Free ChinaSide Tycoon Anfänger-Guide",
+          "description": "Ein Walkthrough für die erste Session: Einrichtung deines Versandagenten, erste Bestellungen, frühe Upgrades und die Gewohnheiten, die einen stetigen Cashflow aufbauen.",
+          "href": "/guide/free-chinaside-tycoon-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Schließe das Tutorial ab und sichere dir dein Start-Cash."
+            },
+            {
+              "label": "2",
+              "detail": "Nimm deine ersten Versandbestellungen am Tresen an und bearbeite sie."
+            },
+            {
+              "label": "3",
+              "detail": "Kaufe das günstigste Output-Upgrade mit der kürzesten Amortisationszeit."
+            },
+            {
+              "label": "4",
+              "detail": "Stelle deinen ersten Arbeiter ein, damit das Unternehmen auch in deiner Abwesenheit verdient."
+            },
+            {
+              "label": "5",
+              "detail": "Richte die Offline-Sammlung ein, bevor du dich für die Nacht ausloggst."
+            },
+            {
+              "label": "6",
+              "detail": "Reinvestiere jede Auszahlung in Stände, Personal und Produktionslinien."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Free ChinaSide Tycoon Fabrik-Guide",
+          "description": "Verstehe, wie die Fabrik rohen Bestand in verkaufsfähige Waren verwandelt und welche Produktions-Upgrades deine Bestellpipeline am Laufen halten.",
+          "href": "/mechanics/free-chinaside-tycoon-production",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Bestand",
+              "detail": "Die Fabrikproduktion wandelt rohen Bestand in Fertigwaren um, die deine Bestellungen verkaufen können."
+            },
+            {
+              "label": "Pipeline",
+              "detail": "Gewinnung, Verarbeitung und Montage müssen im Gleichgewicht bleiben, sonst stockt die Linie."
+            },
+            {
+              "label": "Upgrades",
+              "detail": "Behebe zuerst die langsamste Stufe, statt die teuerste Maschine zu kaufen."
+            },
+            {
+              "label": "Automatisierung",
+              "detail": "Automatisierte Produktion hält die Waren in Bewegung, während du Bestellungen vorne bearbeitest."
+            },
+            {
+              "label": "Idle",
+              "detail": "Die Fabrikproduktion läuft offline weiter – plane die Produktion also ein, bevor du gehst."
+            },
+            {
+              "label": "Lager",
+              "detail": "Erweitere das Lager, bevor ein voller Puffer die neue Produktion blockiert."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Free ChinaSide Tycoon Arbeiter",
+          "description": "Vergleiche Packer, Fotografen, Gabelstaplerfahrer und Sicherheitspersonal und erfahre, welche Rollen du in jeder Phase deines Unternehmens einstellen solltest.",
+          "href": "/guide/free-chinaside-tycoon-how-to-play",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Packer",
+              "detail": "Packer bereiten Fertigwaren für den Versand vor und halten die Bestellungen in Bewegung."
+            },
+            {
+              "label": "Fotografen",
+              "detail": "Fotografen übernehmen die QC-Aufnahmen, damit Bestellungen die Prüfung schneller bestehen."
+            },
+            {
+              "label": "Gabelstapler",
+              "detail": "Gabelstaplerfahrer bewegen den Bestand zwischen Lager und Ladebereich."
+            },
+            {
+              "label": "Sicherheit",
+              "detail": "Sicherheitspersonal verringert die Auswirkungen von Polizeirazzien auf deinen Betrieb."
+            },
+            {
+              "label": "Einstellen",
+              "detail": "Stelle die Rolle ein, die deinen aktuellen Engpass behebt, statt gleichmäßig zu besetzen."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Free ChinaSide Tycoon Versand-Guide",
+          "description": "Verfolge den kompletten Geschäftszyklus von der Bestellannahme und den QC-Fotos bis zu den Versandlieferungen und sieh, wo jeder Schritt Gewinn bringt.",
+          "href": "/mechanics/free-chinaside-tycoon-business",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Kunden geben Bestellungen an deinem Versandtresen auf."
+            },
+            {
+              "label": "2",
+              "detail": "Entnimm die benötigten Waren dem Fabriklager."
+            },
+            {
+              "label": "3",
+              "detail": "Verpacke die Bestellung und schließe den QC-Fotoschritt ab."
+            },
+            {
+              "label": "4",
+              "detail": "Lade die fertige Bestellung in eine Versandlieferung."
+            },
+            {
+              "label": "5",
+              "detail": "Schreibe die Auszahlung gut und reinvestiere sie in das nächste Upgrade."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Free ChinaSide Tycoon Razzien",
+          "description": "Erfahre, wie Polizeirazzien ablaufen, was sie kosten und wie Sicherheitspersonal oder das Zahlen des Bußgelds dein Unternehmen am Laufen halten.",
+          "href": "/mechanics/free-chinaside-tycoon-economy",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Warnung",
+              "detail": "Razzien starten mit einem Warnfenster, das dir kurz Zeit zum Reagieren gibt."
+            },
+            {
+              "label": "Sicherheit",
+              "detail": "Eingestelltes Sicherheitspersonal verringert den Schaden, den eine Razzia anrichtet."
+            },
+            {
+              "label": "Bußgelder",
+              "detail": "Das Zahlen des Bußgelds beendet eine Razzia schnell, kostet aber einen Teil deines Cash."
+            },
+            {
+              "label": "Ausfallzeit",
+              "detail": "Eine gescheiterte Razzia kann die Produktion pausieren – halte einen Cash-Puffer bereit."
+            },
+            {
+              "label": "Verteidigung",
+              "detail": "Verbessere die Verteidigung vor dem Ausbau, damit eine Razzia dein Wachstum nicht stoppt."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Free ChinaSide Tycoon Kisten",
+          "description": "Sieh, wie du Kisten verdienst und öffnest, welche Belohnungen sie enthalten können und wann sich eine Kiste für dein Unternehmen lohnt.",
+          "href": "/codes/free-chinaside-tycoon-codes",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Cash",
+              "detail": "Kisten können eine größere Summe Cash für dein nächstes Upgrade abwerfen."
+            },
+            {
+              "label": "Boosts",
+              "detail": "Temporäre Boosts aus Kisten beschleunigen das Einkommen für begrenzte Zeit."
+            },
+            {
+              "label": "Kosmetik",
+              "detail": "Saisonale Kisten können Schilder, Requisiten und Lagerdekorationen enthalten."
+            },
+            {
+              "label": "Codes",
+              "detail": "Manche aktiven Codes geben kostenlose Kisten zusammen mit Cash-Belohnungen aus."
+            },
+            {
+              "label": "Belohnungen",
+              "detail": "Öffne Kisten während einer aktiven Session, damit du Boosts sofort nutzen kannst."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Free ChinaSide Tycoon Fortschritt",
+          "description": "Verfolge Sternbewertung, Follower, Kunden, Cash und Offline-Einkommen, um zu sehen, welches Wachstumssystem deine nächste Investition verdient.",
+          "href": "/progression/free-chinaside-tycoon-upgrades",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Sternbewertung und Offline-Einkommen bringen die größten langfristigen Gewinne."
+            },
+            {
+              "label": "A",
+              "detail": "Fabrikproduktion und Arbeiterautomatisierung verzinsen deinen Cashflow."
+            },
+            {
+              "label": "B",
+              "detail": "Follower und Kunden steigern das Bestellvolumen, sobald die Produktion mithält."
+            },
+            {
+              "label": "C",
+              "detail": "Kosmetische Lager-Upgrades machen Spaß, bringen aber keine wirtschaftliche Rendite."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Free ChinaSide Tycoon FAQ",
+      "description": "Schnelle Antworten auf die häufigsten Fragen zu Free ChinaSide Tycoon auf Roblox.",
+      "items": [
+        {
+          "question": "Was ist Free ChinaSide Tycoon?",
+          "answer": "Free ChinaSide Tycoon ist ein Roblox-Business-Tycoon von Goyboy Games. Du führst ein Versandagentur-Unternehmen, bearbeitest Kundenbestellungen, stellst Arbeiter ein, erweiterst deine Fabrik, bewältigst Polizeirazzien, öffnest Kisten und verdienst Offline-Einkommen, während du weg bist."
+        },
+        {
+          "question": "Wie fange ich in Free ChinaSide Tycoon an?",
+          "answer": "Schließe das Tutorial ab, nimm deine ersten Versandbestellungen an und reinvestiere jede Auszahlung in das günstigste Output-Upgrade. Stelle früh deinen ersten Arbeiter ein, damit das Unternehmen zwischen den Sessions weiter verdient."
+        },
+        {
+          "question": "Gibt es Free ChinaSide Tycoon Codes?",
+          "answer": "Ja. Löse funktionierende Codes im Codes-Menü im Spiel für Cash, Kisten und temporäre Boosts ein. Codes können nach einem Update ablaufen, also löse sie ein, sobald du sie findest."
+        },
+        {
+          "question": "Welche Arbeiter sollte ich in Free ChinaSide Tycoon zuerst einstellen?",
+          "answer": "Stelle die Rolle ein, die deinen aktuellen Engpass behebt. Packer und Fotografen halten Bestellungen in Bewegung, Gabelstaplerfahrer bewegen den Bestand und Sicherheitspersonal senkt die Kosten von Polizeirazzien."
+        },
+        {
+          "question": "Wie verdiene ich in Free ChinaSide Tycoon schneller Cash?",
+          "answer": "Balanciere die Fabrikproduktion mit der Bestellnachfrage, stapel Produktions- und Arbeiter-Upgrades und richte die Offline-Sammlung ein, bevor du dich ausloggst, damit Offline-Einkommen deinen nächsten Kauf finanziert."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Bereit, dein ChinaSide-Tycoon-Imperium aufzubauen?",
+      "description": "Von deinen ersten Versandbestellungen bis zu einer voll ausgebauten Fabrik deckt unser Community-Wiki jeden Arbeiter, jede Kiste, jede Razzia und jedes Upgrade mit kostenlosen, aktuellen Guides ab.",
+      "primary": "Anfänger-Guide lesen",
+      "secondary": "Auf Roblox spielen"
+    }
+  },
+  "codes": {
+    "overviewTitle": "Free ChinaSide Tycoon Codes",
+    "overviewDescription": "Jeder funktionierende Free ChinaSide Tycoon Code an einem Ort, mit Einlöseschritten, Belohnungsübersichten und Hinweisen, welche Codes zuerst ablaufen."
+  },
+  "guide": {
+    "overviewTitle": "Free ChinaSide Tycoon Guides",
+    "overviewDescription": "Anfängerfreundliche Free ChinaSide Tycoon Guides zu Spielweise, Tipps für die erste Stunde und den schnellsten Wegen zu einem profitablen Versandimperium."
+  },
+  "progression": {
+    "overviewTitle": "Free ChinaSide Tycoon Fortschritt",
+    "overviewDescription": "Steige schneller auf und vergrößere dein Vermögen mit Free ChinaSide Tycoon Fortschritts-Guides zu Geld, Upgrades und langfristigem Account-Wachstum."
+  },
+  "mechanics": {
+    "overviewTitle": "Free ChinaSide Tycoon Mechaniken",
+    "overviewDescription": "Verstehe die Systeme hinter Free ChinaSide Tycoon – von der Ölproduktion und Unternehmensführung bis zur Spielwirtschaft und dem Tycoon-Loop."
+  },
+  "controls": {
+    "overviewTitle": "Free ChinaSide Tycoon Steuerung",
+    "overviewDescription": "Die komplette Free ChinaSide Tycoon Steuerung für PC und Mobilgeräte, plus Einstellungen und Tastenbelegungen, mit denen du dein Unternehmen effizient führst."
+  },
+  "community": {
+    "overviewTitle": "Free ChinaSide Tycoon Community",
+    "overviewDescription": "Verfolge Free ChinaSide Tycoon Updates, Release-News, Discord- und Reddit-Communities und saisonale Code-Drops an einem zentralen Ort."
+  },
+  "shared": {
+    "wikiNavigation": "Wiki-Navigation",
+    "activeCodes": "Aktive Codes",
+    "updated": "Aktualisiert",
+    "viewAllCodes": "Alle Codes anzeigen",
+    "playOnRoblox": "Auf Roblox spielen",
+    "inThisSection": "In diesem Abschnitt",
+    "tableOfContents": "Inhaltsverzeichnis",
+    "nextSteps": "Nächste Schritte",
+    "needHelp": "Brauchst du Hilfe?",
+    "relatedReading": "Verwandte Lektüre",
+    "relatedGuides": "Verwandte Guides",
+    "readMore": "Mehr lesen",
+    "officialMedia": "Offizielle Medien",
+    "home": "Startseite",
+    "noGuidesAvailable": "Noch keine Guides verfügbar. Schau bald wieder vorbei!"
+  },
+  "footer": {
+    "aboutTitle": "Free ChinaSide Tycoon Wiki",
+    "about": "Das Free ChinaSide Tycoon Wiki ist ein unabhängiger, von Fans erstellter Guide-Hub zu Versandbestellungen, Fabrikproduktion, Arbeitern, Kisten, Razzien, Upgrades und wichtigem Spielwissen für neue und erfahrene Spieler gleichermaßen.",
+    "quickLinks": "Schnelllinks",
+    "guides": "Guides",
+    "legal": "Rechtliches",
+    "copyright": "2026 Free ChinaSide Tycoon Wiki. Nicht mit Goyboy Games oder Roblox verbunden.",
+    "description": "Kostenloser Roblox-Versand-Tycoon. Bearbeite Bestellungen, stelle Arbeiter ein, führe eine Fabrik, öffne Kisten und verdiene Offline-Einkommen.",
+    "playGame": "Auf Roblox spielen",
+    "officialDiscord": "Offizielle Roblox-Gruppe",
+    "officialYoutube": "ChinaSide Tycoon Videos",
+    "vvBuilder": "ChinaSide Tycoon Codes",
+    "beginnerGuide": "Anfänger-Guide",
+    "codesGuides": "Codes & Belohnungen",
+    "progressionGuides": "Fortschritt & Geld",
+    "mechanicsGuides": "Mechaniken & Wirtschaft",
+    "privacyPolicy": "Datenschutzerklärung",
+    "termsOfService": "Nutzungsbedingungen"
+  }
+}
