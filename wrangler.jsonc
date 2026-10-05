@@ -1,0 +1,14 @@
+{
+  "name": "free-chinaside-tycoon-wiki",
+  "compatibility_date": "2024-09-01",
+  "workers_dev": false,
+  "assets": {
+    "directory": "./out"
+  },
+  "routes": [
+    {
+      "pattern": "free-chinaside-tycoon.wiki",
+      "custom_domain": true
+    }
+  ]
+}
