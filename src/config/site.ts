@@ -19,15 +19,15 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "My Seafood Stand Wiki",
-  shortName: "My Seafood Stand",
-  logoText: "SS",
-  tagline: "Complete Guides, Codes, Recipes & Tier Lists",
-  description: "Your ultimate guide to My Seafood Stand on Roblox! Explore active working codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top").hostname.replace(/^www\./, "")}`,
-  gameUrl: "https://www.roblox.com/games/my-seafood-stand",
-  heroVideoId: "M8DvcwoFRrk", // Roblox My Seafood Stand codes & gameplay video
+  name: "Free ChinaSide Tycoon Wiki",
+  shortName: "Free ChinaSide Tycoon",
+  logoText: "F",
+  tagline: "Codes, Shipping Guides, Factory Tips & Progression",
+  description: "Your ultimate guide to Free ChinaSide Tycoon on Roblox! Explore working codes, shipping and factory guides, workers, crates, raids, upgrades, and progression strategies.",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://free-chinaside-tycoon.wiki",
+  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://free-chinaside-tycoon.wiki").hostname.replace(/^www\./, "")}`,
+  gameUrl: "https://www.roblox.com/games/88793580588296/ChinaSide-Tycoon",
+  heroVideoId: "cpS2Kag74IE", // ChinaSide Tycoon how-to-play guide & codes
   social: {
     discord: "https://discord.gg/roblox",
     youtube: "https://www.youtube.com/@roblox",
