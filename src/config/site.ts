@@ -32,6 +32,6 @@ export const siteConfig: SiteConfig = {
     discord: "https://www.roblox.com/groups/325011659/Goyboy-Games",
     youtube: "https://www.youtube.com/results?search_query=ChinaSide+Tycoon+Roblox",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "es", "pt", "de"],
   defaultLocale: "en",
 };
